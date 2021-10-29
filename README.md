@@ -1,6 +1,6 @@
 # A Bar-Chart-using-D3
 
-You can find this Bar Chat project live at:
+You can find this Bar Chart project live at:
 
 https://birdandthebees.github.io/Bar-Chart-using-D3/
 
